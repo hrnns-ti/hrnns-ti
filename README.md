@@ -31,10 +31,10 @@ ___
 ___
 <body align-items:"center" justify-content:"center">
 <a href="https://github.com/hrnns-ti/github-readme-stats">
-  <img height=140 align="left" src="https://github-readme-stats.vercel.app/api?username=hrnns-ti&card_width=655&show_icon=true&theme=graywhite&border_radius=8" />
+  <img height=220 align="left" src="https://github-readme-stats.vercel.app/api?username=hrnns-ti&card_width=655&show_icon=true&theme=graywhite&border_radius=8" />
 </a>
 <a href="https://github.com/hrnns-ti/convoychat">
-  <img height=220 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=8&card_width=500" />
+  <img height=220 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=8&card_width=300" />
 </a>
 </body>
 
