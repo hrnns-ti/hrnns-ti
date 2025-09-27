@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haerunnas</h1>
-<h3 align="center">I'm a student at Islamic State Syarif Hidayatullah 🎓, passionate about IoT🌐, AI/ML🤖, and cybersecurity🔒.</h3>
+<h3 align="center">I'm a student at Syarif Hidayatullah Islamic State Univeersity🎓, passionate about IoT🌐, AI/ML🤖, and cybersecurity🔒.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrnns-ti&label=Profile%20views&color=0e75b6&style=flat" alt="hrnns-ti" /> </p>
 
