@@ -51,7 +51,7 @@ ___
   <img height=165 align="left" src="https://github-readme-stats.vercel.app/api?username=hrnns-ti&card_width=475&show_icon=true&theme=graywhite&border_radius=8" />
 </a>
 <a href="https://github.com/hrnns-ti/convoychat">
-  <img height=220 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=1000&card_width=380" />
+  <img height=220 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=10000&card_width=380" />
 </a>
 </body>
 
