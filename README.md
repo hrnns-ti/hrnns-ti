@@ -49,7 +49,7 @@
 ___
 <body align-items:"center" justify-content:"center">
 <a href="https://github.com/hrnns-ti/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=100000&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=100000&card_width=800" />
 </a>
 </body>
 
