@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Database, AI/ML, AI Automation, and Networking**
 
-- 👨‍💻 See my portofolio [Here]([https://github.io](https://hrnns-ti.github.io/portofolio/)
+- 👨‍💻 See my portofolio [Here](https://hrnns-ti.github.io/portofolio/)
 
 - 📫 How to reach me **nassjourney@gmail.com**
 
