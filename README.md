@@ -26,31 +26,46 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<p>
+  <img width="40" height="40" alt="skill-icons--cs" src="https://github.com/user-attachments/assets/74cfa1ca-aa2c-4deb-8822-c44401d4b7ae" />
+  <img width="40" height="40" alt="skill-icons--java-dark" src="https://github.com/user-attachments/assets/9429f433-7fc4-4f20-879f-d1af9719d183" />
+  <img width="40" height="40" alt="skill-icons--python-dark" src="https://github.com/user-attachments/assets/0758961b-bf62-4351-a2d8-d501d7d13033" />
+  <img width="40" height="40" alt="skill-icons--javascript" src="https://github.com/user-attachments/assets/57f78bf0-2243-4744-8719-3cc82af0b347" />
+  <img width="40" height="40" alt="skill-icons--html" src="https://github.com/user-attachments/assets/4c338a17-c83e-4761-8049-4d244074f548" />
+  <img width="40" height="40" alt="skill-icons--css" src="https://github.com/user-attachments/assets/e6a4bdd9-4c99-4d73-a08e-a129eebfea6f" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" height="40" alt="skill-icons--postgresql-dark" src="https://github.com/user-attachments/assets/b7c191a0-38db-4e3f-bf2c-3d5469f2addc" />
+  <img width="40" height="40" alt="skill-icons--mysql-dark" src="https://github.com/user-attachments/assets/2fcbf9a5-db6d-4285-bf8b-b15cf1e98824" />
+  <img width="40" height="40" alt="skill-icons--mongodb" src="https://github.com/user-attachments/assets/a7f2ca7e-84cd-4bc0-a768-10c246d8de35" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" height="40" alt="skill-icons--vscode-dark" src="https://github.com/user-attachments/assets/221bd4a0-7c7a-48f1-8a20-e1b93fb9cbe9" />
+  <img width="40" height="40" alt="skill-icons--visualstudio-dark" src="https://github.com/user-attachments/assets/4f036b76-da3e-4bae-84b5-3182838f24ec" />
+  <img width="40" height="40" alt="skill-icons--webstorm-dark" src="https://github.com/user-attachments/assets/87ce4d13-e811-4849-a1e6-776b385d46db" />
+  <img width="40" height="40" alt="skill-icons--neovim-dark" src="https://github.com/user-attachments/assets/7f8489ad-02f9-4f22-84c5-687ed0912f25" />
+  <img width="40" height="40" alt="skill-icons--eclipse-dark" src="https://github.com/user-attachments/assets/4b48a688-a4bc-40cc-8a21-860e1416b37f" />
+  <img width="40" height="40" alt="skill-icons--figma-dark" src="https://github.com/user-attachments/assets/9b12ccea-999c-4dbe-b884-f01fd871c459" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" height="40" alt="skill-icons--markdown-dark" src="https://github.com/user-attachments/assets/aedc6785-5e17-4a36-8ddc-b71902633b9a" />
+  <img width="40" height="40" alt="skill-icons--github-dark" src="https://github.com/user-attachments/assets/654cc052-7488-47dd-96cd-ea246fc019b8" />
+  <img width="40" height="40" alt="skill-icons--git" src="https://github.com/user-attachments/assets/0eada13a-4199-43ac-add6-f1b07f87e0ee" />
+  <img width="40" height="40" alt="skill-icons--bash-dark" src="https://github.com/user-attachments/assets/9a33a1bc-648a-4ed1-ab08-afb307f7a30c" />
+</p>
+
+<p>
+  <img width="40" height="40" alt="skill-icons--dotnet" src="https://github.com/user-attachments/assets/3e9a93ca-d8f9-4a08-b7d7-dcb5eafc2fe2" />
+  <img width="40" height="40" alt="skill-icons--expressjs-dark" src="https://github.com/user-attachments/assets/9d425cd4-9dd6-43c0-bc57-57afdca21a9b" />
+  <img width="40" height="40" alt="skill-icons--nodejs-dark" src="https://github.com/user-attachments/assets/2e75ab43-c6a0-4c42-beef-03f5cd40dc99" />
+  <img width="40" height="40" alt="skill-icons--npm-dark" src="https://github.com/user-attachments/assets/1a9a95c7-906b-46ea-9898-87790d6201d0" />
+  <img width="40" height="40" alt="skill-icons--bootstrap" src="https://github.com/user-attachments/assets/cf137dc2-0812-4f6a-8505-df86b4e9b2c3" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" height="40" alt="skill-icons--linux-dark" src="https://github.com/user-attachments/assets/cc6d152a-4b53-44f7-9e54-387695fa8e5e" />
+  <img width="40" height="40" alt="skill-icons--kali-dark" src="https://github.com/user-attachments/assets/7c4e6a17-d773-4112-82cf-e6e155d1aa40" />
+  <img width="40" height="40" alt="skill-icons--arch-dark" src="https://github.com/user-attachments/assets/86a56ca1-18c0-489a-b949-c86f1112678f" />
+</p>
+
 
 <body align-items:"center" justify-content:"center">
 <a href="https://github.com/hrnns-ti/convoychat" align="center">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=100000&card_width=500&theme=transparent&hide_border=true&include_all_commits=true" />
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=hrnns-ti&theme=transparent&hide_border=true"/> -->
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnns-ti&layout=compact&langs_count=10000000000000&card_width=1000&theme=transparent&hide_border=true&include_all_commits=true" />
 </a>
 </body>
-
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
