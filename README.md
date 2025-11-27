@@ -44,14 +44,14 @@
   <img width="40" height="40" alt="skill-icons--neovim-dark" src="https://github.com/user-attachments/assets/7f8489ad-02f9-4f22-84c5-687ed0912f25" />
   <img width="40" height="40" alt="skill-icons--eclipse-dark" src="https://github.com/user-attachments/assets/4b48a688-a4bc-40cc-8a21-860e1416b37f" />
   <img width="40" height="40" alt="skill-icons--figma-dark" src="https://github.com/user-attachments/assets/9b12ccea-999c-4dbe-b884-f01fd871c459" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>
   <img width="40" height="40" alt="skill-icons--markdown-dark" src="https://github.com/user-attachments/assets/aedc6785-5e17-4a36-8ddc-b71902633b9a" />
   <img width="40" height="40" alt="skill-icons--github-dark" src="https://github.com/user-attachments/assets/654cc052-7488-47dd-96cd-ea246fc019b8" />
   <img width="40" height="40" alt="skill-icons--git" src="https://github.com/user-attachments/assets/0eada13a-4199-43ac-add6-f1b07f87e0ee" />
   <img width="40" height="40" alt="skill-icons--bash-dark" src="https://github.com/user-attachments/assets/9a33a1bc-648a-4ed1-ab08-afb307f7a30c" />
-</p>
-
-<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="40" height="40" alt="skill-icons--dotnet" src="https://github.com/user-attachments/assets/3e9a93ca-d8f9-4a08-b7d7-dcb5eafc2fe2" />
   <img width="40" height="40" alt="skill-icons--expressjs-dark" src="https://github.com/user-attachments/assets/9d425cd4-9dd6-43c0-bc57-57afdca21a9b" />
   <img width="40" height="40" alt="skill-icons--nodejs-dark" src="https://github.com/user-attachments/assets/2e75ab43-c6a0-4c42-beef-03f5cd40dc99" />
