@@ -5,6 +5,11 @@
 ---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/360661e1-38bd-491b-b648-189be91a8268" width="400" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
