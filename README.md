@@ -5,7 +5,6 @@
 ---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e1b48f69-db2c-45cd-8c0f-98d0e8b241f4" width="500" />
-  <img src="https://github.com/user-attachments/assets/e1b48f69-db2c-45cd-8c0f-98d0e8b241f4" width="500" />
 </div>
 
 - 🌱 I’m currently learning **Database, AI/ML, AI Automation, and CyberSec**
