@@ -3,7 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrnns-ti&label=Profile%20views&color=0e75b6&style=flat" alt="hrnns-ti" /> </p>
 
 ---
-<div align="center"><img src="https://github.com/user-attachments/assets/07968d7d-372e-4e3f-89ce-150d84603ea0" width="500" /></div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e1b48f69-db2c-45cd-8c0f-98d0e8b241f4" width="500" />
+  <img src="https://github.com/user-attachments/assets/e1b48f69-db2c-45cd-8c0f-98d0e8b241f4" width="500" />
+</div>
 
 - 🌱 I’m currently learning **Database, AI/ML, AI Automation, and CyberSec**
 - 👨‍💻 See my portofolio [Here](https://hrnns-ti.github.io/portofolio/)
