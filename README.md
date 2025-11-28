@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Haerunnas</h1>
 <h3 align="center">I'm a student @ Syarif Hidayatullah Islamic State University🎓,</h3>
-<h3 align="center">passionate about IoT🌐, AI/ML🤖, and Cyber Security🔒.</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrnns-ti&label=Profile%20views&color=0e75b6&style=flat" alt="hrnns-ti" /> </p>
 
 ---
 <div align="center"><img src="https://github.com/user-attachments/assets/07968d7d-372e-4e3f-89ce-150d84603ea0" width="500" /></div>
 
-- 🌱 I’m currently learning **Database, AI/ML, AI Automation, and Networking**
-
+- 🌱 I’m currently learning **Database, AI/ML, AI Automation, and CyberSec**
 - 👨‍💻 See my portofolio [Here](https://hrnns-ti.github.io/portofolio/)
-
 - 📫 How to reach me **nassjourney@gmail.com**
-
 - ⚡ Fun fact **---**
 ---
 
