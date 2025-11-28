@@ -37,7 +37,6 @@
   <img width="40" height="40" alt="skill-icons--visualstudio-dark" src="https://github.com/user-attachments/assets/4f036b76-da3e-4bae-84b5-3182838f24ec" />
   <img width="40" height="40" alt="skill-icons--webstorm-dark" src="https://github.com/user-attachments/assets/87ce4d13-e811-4849-a1e6-776b385d46db" />
   <img width="40" height="40" alt="skill-icons--neovim-dark" src="https://github.com/user-attachments/assets/7f8489ad-02f9-4f22-84c5-687ed0912f25" />
-  <img width="40" height="40" alt="skill-icons--eclipse-dark" src="https://github.com/user-attachments/assets/4b48a688-a4bc-40cc-8a21-860e1416b37f" />
   <img width="40" height="40" alt="skill-icons--figma-dark" src="https://github.com/user-attachments/assets/9b12ccea-999c-4dbe-b884-f01fd871c459" />
 </p>
 
