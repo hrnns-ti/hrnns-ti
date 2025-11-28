@@ -8,6 +8,7 @@
 
 </div>
 
+<br></br>
 - 🌱 I’m currently learning **Database, AI/ML, AI Automation, and CyberSec**
 - 👨‍💻 See my portofolio [Here](https://hrnns-ti.github.io/portofolio/)
 - 📫 How to reach me **nassjourney@gmail.com**
