@@ -22,10 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haerunnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haerunnas" height="30" width="40" /></a>
-<a href="https://kaggle.com/haerunnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haerunnas" height="30" width="40" /></a>
-<a href="https://instagram.com/cnstllx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cnstllx" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/haerunnas" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7b40696a-5d85-4b77-ac55-8273e75faf42" alt="haerunnas" height="40" width="40" /></a>
+<a href="mailto:nassjourney@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8c46c8a6-55b8-4238-b552-ffe2e793d05a" alt="haerunnas" height="40" width="40" /></a>
+<a href="https://instagram.com/cnstllx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1eb1642d-9a92-4114-9c78-1debf013d831" alt="cnstllx" height="40" width="40" /></a>
 
 ---
 
