@@ -11,17 +11,17 @@
       <p align="center">
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./metrics-base.svg" alt="Metrics" height="185" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/user-attachments/assets/360661e1-38bd-491b-b648-189be91a8268" height="185" radius="20"/>
+        <img src="./metrics-base.svg" alt="Metrics" height="145" />
         &emsp;&emsp;&emsp;&emsp;&emsp;
+        <img src="https://github.com/user-attachments/assets/360661e1-38bd-491b-b648-189be91a8268" height="145" radius="20"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
       </p>
       <p align="center">
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-calendar.svg" alt="Metrics" width="400">
+        <img src="/metrics-calendar.svg" alt="Metrics" width="300">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-languages.svg" alt="Metrics" width="500" height="170">
+        <img src="/metrics-languages.svg" alt="Metrics" width="400" height="170">
         &nbsp;&nbsp;&nbsp;&nbsp;
         <br>
       </p>
