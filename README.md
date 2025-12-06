@@ -20,9 +20,9 @@
       <p align="center">
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-calendar.svg" alt="Metrics" height="160">
+        <img src="/metrics-calendar.svg" alt="Metrics" height="150">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-languages.svg" alt="Metrics" height="160">
+        <img src="/metrics-languages.svg" alt="Metrics" height="150">
         &nbsp;&nbsp;&nbsp;&nbsp;
         <br>
       </p>
