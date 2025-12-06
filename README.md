@@ -22,7 +22,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="/metrics-calendar.svg" alt="Metrics" height="150">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-languages.svg" alt="Metrics" height="150">
+        <img src="/metrics-languages.svg" alt="Metrics" height="140">
         &nbsp;&nbsp;&nbsp;&nbsp;
         <br>
       </p>
