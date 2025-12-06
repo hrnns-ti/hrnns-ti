@@ -13,7 +13,6 @@
         &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./metrics-base.svg" alt="Metrics" height="160" />
         &nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/user-attachments/assets/360661e1-38bd-491b-b648-189be91a8268" height="160" radius="20"/>
         &nbsp;&nbsp;&nbsp;&nbsp;
       </p>
@@ -23,7 +22,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="/metrics-calendar.svg" alt="Metrics" height="150">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-languages.svg" alt="Metrics" height="140">
+        <img src="/metrics-languages.svg" alt="Metrics" height="130">
         &nbsp;&nbsp;&nbsp;&nbsp;
         <br>
       </p>
