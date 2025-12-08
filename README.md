@@ -40,7 +40,7 @@
     <!-- Left: Snake + info -->
     <td style="vertical-align: top; border: none;">
       <div align="center">
-        <picture width="450">
+        <picture width="350">
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
