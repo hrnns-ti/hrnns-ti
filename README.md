@@ -7,7 +7,7 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td width="1010">
       <br>
       <p align="center">
         &nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,9 +38,9 @@
 <table>
   <tr>
     <!-- Left: Snake + info -->
-    <td style="vertical-align: top; border: none;">
+    <td style="vertical-align: top; border: none;" width="1010">
       <div align="center">
-        <picture width="350">
+        <picture width="500">
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
@@ -52,21 +52,6 @@
       <p>  📫 How to reach me via email : <a href="mailto:nassjourney@gmail.com" style="text-decoration:none;">&nbsp;nassjourney@gmail.com</a></p>  
       <p>  ⚡ Fun fact :  coding equals art</p>
       <br></br>
-    </td>
-    <!-- Right: Connect with me -->
-    <td style="vertical-align: top; border: none;" width="200">
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://linkedin.com/in/haerunnas" target="blank">
-          <img align="center" src="https://github.com/user-attachments/assets/7b40696a-5d85-4b77-ac55-8273e75faf42" alt="haerunnas" height="40" width="40" />
-        </a>
-        <a href="mailto:nassjourney@gmail.com" target="blank">
-          <img align="center" src="https://github.com/user-attachments/assets/8c46c8a6-55b8-4238-b552-ffe2e793d05a" alt="haerunnas" height="40" width="40" />
-        </a>
-        <a href="https://instagram.com/cnstllx" target="blank">
-          <img align="center" src="https://github.com/user-attachments/assets/1eb1642d-9a92-4114-9c78-1debf013d831" alt="cnstllx" height="40" width="40" />
-        </a>
-      </p>
     </td>
   </tr>
 </table>
