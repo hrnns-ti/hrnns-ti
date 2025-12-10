@@ -35,6 +35,15 @@
 <br>
 <br>
 
+
+
+<table align="center">
+  <tr>
+    <td width="1010">
+      <h3 align="left">About Me:</h3>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <!-- Left: Snake + info -->
