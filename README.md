@@ -130,8 +130,6 @@
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--bash-dark" src="https://github.com/user-attachments/assets/9a33a1bc-648a-4ed1-ab08-afb307f7a30c" />
       <!-- OS / Distros -->
-      <img width="40" height="40" alt="skill-icons--linux-dark" src="https://github.com/user-attachments/assets/cc6d152a-4b53-44f7-9e54-387695fa8e5e" />
-      &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--kali-dark" src="https://github.com/user-attachments/assets/7c4e6a17-d773-4112-82cf-e6e155d1aa40" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--arch-dark" src="https://github.com/user-attachments/assets/86a56ca1-18c0-489a-b949-c86f1112678f" />
