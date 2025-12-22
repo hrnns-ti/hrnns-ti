@@ -114,8 +114,6 @@
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--bootstrap" src="https://github.com/user-attachments/assets/cf137dc2-0812-4f6a-8505-df86b4e9b2c3" />
       &hairsp;&hairsp;&hairsp;&hairsp;
-      <img width="40" height="40" alt="skill-icons--flask-dark" src="https://github.com/user-attachments/assets/847fed1f-4c61-4c60-af5a-a145fb71ab2e" />
-      &hairsp;&hairsp;&hairsp;&hairsp;
     </td>
   </tr>
   
