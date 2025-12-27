@@ -103,7 +103,7 @@
   
   <tr>
     <td style="border: none; padding: 30px; display:flex; align-items:center;">
-      <!-- Backend / Web -->
+      <!-- Language Tools -->
       <img width="40" height="40" alt="skill-icons--dotnet" src="https://github.com/user-attachments/assets/3e9a93ca-d8f9-4a08-b7d7-dcb5eafc2fe2" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--expressjs-dark" src="https://github.com/user-attachments/assets/9d425cd4-9dd6-43c0-bc57-57afdca21a9b" />
@@ -113,6 +113,8 @@
       <img width="40" height="40" alt="skill-icons--npm-dark" src="https://github.com/user-attachments/assets/1a9a95c7-906b-46ea-9898-87790d6201d0" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--bootstrap" src="https://github.com/user-attachments/assets/cf137dc2-0812-4f6a-8505-df86b4e9b2c3" />
+      &hairsp;&hairsp;&hairsp;&hairsp;
+      <img width="40" height="40" alt="skill-icons--opencv-dark" src="https://github.com/user-attachments/assets/4fec62b0-f214-470b-8ed7-c82e953aa755" />
       &hairsp;&hairsp;&hairsp;&hairsp;
     </td>
   </tr>
@@ -132,7 +134,7 @@
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--arch-dark" src="https://github.com/user-attachments/assets/86a56ca1-18c0-489a-b949-c86f1112678f" />
       &hairsp;&hairsp;&hairsp;&hairsp;
-      <img width="40" height="204840" alt="skill-icons--ubuntu-dark" src="https://github.com/user-attachments/assets/e177cd33-0bc1-4141-ab05-6330d62f6354" />
+      <img width="40" height="40" alt="skill-icons--ubuntu-dark" src="https://github.com/user-attachments/assets/e177cd33-0bc1-4141-ab05-6330d62f6354" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <!-- Editors / Design -->
       <img width="40" height="40" alt="skill-icons--vscode-dark" src="https://github.com/user-attachments/assets/221bd4a0-7c7a-48f1-8a20-e1b93fb9cbe9" />
@@ -140,6 +142,8 @@
       <img width="40" height="40" alt="skill-icons--visualstudio-dark" src="https://github.com/user-attachments/assets/4f036b76-da3e-4bae-84b5-3182838f24ec" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--webstorm-dark" src="https://github.com/user-attachments/assets/87ce4d13-e811-4849-a1e6-776b385d46db" />
+      &hairsp;&hairsp;&hairsp;&hairsp;
+      <img width="40" height="2048" alt="skill-icons--pycharm-dark" src="https://github.com/user-attachments/assets/432dac65-c94c-4b82-88e5-a5570c4e0324" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--neovim-dark" src="https://github.com/user-attachments/assets/7f8489ad-02f9-4f22-84c5-687ed0912f25" />
       &hairsp;&hairsp;&hairsp;&hairsp;
