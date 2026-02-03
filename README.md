@@ -88,6 +88,8 @@
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--javascript" src="https://github.com/user-attachments/assets/57f78bf0-2243-4744-8719-3cc82af0b347" />
       &hairsp;&hairsp;&hairsp;&hairsp;
+      <img width="40" height="40" alt="skill-icons--typescript" src="https://github.com/user-attachments/assets/fa6931ce-9076-48e9-90c0-d98872ad41f3" />
+      &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--html" src="https://github.com/user-attachments/assets/4c338a17-c83e-4761-8049-4d244074f548" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--css" src="https://github.com/user-attachments/assets/e6a4bdd9-4c99-4d73-a08e-a129eebfea6f" />
