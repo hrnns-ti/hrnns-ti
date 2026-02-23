@@ -118,6 +118,8 @@
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--opencv-dark" src="https://github.com/user-attachments/assets/4fec62b0-f214-470b-8ed7-c82e953aa755" />
       &hairsp;&hairsp;&hairsp;&hairsp;
+      <img width="40" height="40" alt="skill-icons--tailwindcss-dark" src="https://github.com/user-attachments/assets/708d071e-ef4a-4d5a-9dca-2573f0107916" />
+      &hairsp;&hairsp;&hairsp;&hairsp;      
     </td>
   </tr>
   
