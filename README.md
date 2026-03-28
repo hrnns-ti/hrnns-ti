@@ -98,8 +98,7 @@
       <img width="40" height="40" alt="skill-icons--postgresql-dark" src="https://github.com/user-attachments/assets/b7c191a0-38db-4e3f-bf2c-3d5469f2addc" />
       &hairsp;&hairsp;&hairsp;&hairsp;
       <img width="40" height="40" alt="skill-icons--mysql-dark" src="https://github.com/user-attachments/assets/2fcbf9a5-db6d-4285-bf8b-b15cf1e98824" />
-      &hairsp;&hairsp;&hairsp;&hairsp;
-      <img width="40" height="40" alt="skill-icons--mongodb" src="https://github.com/user-attachments/assets/a7f2ca7e-84cd-4bc0-a768-10c246d8de35" />
+      <!-- &hairsp;&hairsp;&hairsp;&hairsp; -->
     </td>
   </tr>
   
