@@ -47,11 +47,6 @@
 <table align="center">
   <tr>
     <td width="1010">
-      <h3 align="left">About Me:</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="1010">
       <div align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake-dark.svg">
@@ -59,14 +54,19 @@
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
         </picture>
       </div><br>
-      <p align="left"><i>"Crafting digital experiences where logic meets art."</i></p>
+      <p align="center"><i>"Crafting digital experiences where logic meets art."</i></p>
+      &nbsp;
       <p>🔭 <b>Currently focused on:</b> Building modern web applications, exploring LLM integrations, and diving deep into Offensive Security.</p>
       <p>🌱 <b>Always learning:</b> Web2/Web3, Advanced CyberSec techniques, AI Automation, and elegant UI/UX design.</p>
       <p>🤝 <b>Community:</b> Actively sharing knowledge and organizing tech initiatives around Web Development and Cyber Security.</p>
       <p>👨‍💻 <b>My digital garden:</b> <a href="https://hrnns-ti.github.io/portofolio/">haerunnas/portfolio</a></p>
       <p>📫 <b>Let's connect:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
+      <p>    </p>
+      &nbsp;
     </td>
+
   </tr>
+    <br>
 </table>
 
 <br>
