@@ -44,23 +44,27 @@
     </td>
   </tr>
 </table>
-<table>
+<table align="center">
   <tr>
-    <!-- Left: Snake + info -->
-    <td style="vertical-align: top; border: none;" width="1010">
+    <td width="1010">
+      <h3 align="left">About Me:</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="1010">
       <div align="center">
-        <picture width="500">
+        <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
         </picture>
-      </div>
-      <br></br>
-      <p>  🌱 I’m currently learning Database, AI/ML, AI Automation, and CyberSec</p>  
-      <p>  👨‍💻 See my portofolio here : <a href="https://hrnns-ti.github.io/portofolio/" style="text-decoration:none;">&nbsp;haerunnas/portofolio</a></p>  
-      <p>  📫 How to reach me via email : <a href="mailto:nassjourney@gmail.com" style="text-decoration:none;">&nbsp;nassjourney@gmail.com</a></p>  
-      <p>  ⚡ Fun fact :  coding equals art</p>
-      <br></br>
+      </div><br>
+      <p align="left"><i>"Crafting digital experiences where logic meets art."</i></p>
+      <p>🔭 <b>Currently focused on:</b> Building modern web applications, exploring LLM integrations, and diving deep into Offensive Security.</p>
+      <p>🌱 <b>Always learning:</b> Web2/Web3, Advanced CyberSec techniques, AI Automation, and elegant UI/UX design.</p>
+      <p>🤝 <b>Community:</b> Actively sharing knowledge and organizing tech initiatives around Web Development and Cyber Security.</p>
+      <p>👨‍💻 <b>My digital garden:</b> <a href="https://hrnns-ti.github.io/portofolio/">haerunnas/portfolio</a></p>
+      <p>📫 <b>Let's connect:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
     </td>
   </tr>
 </table>
