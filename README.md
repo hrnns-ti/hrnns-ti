@@ -35,8 +35,6 @@
 <br>
 <br>
 
-
-
 <table align="center">
   <tr>
     <td width="1010">
@@ -61,12 +59,9 @@
       <p>🤝 <b>Community:</b> Actively sharing knowledge and organizing tech initiatives around Web Development and Cyber Security.</p>
       <p>👨‍💻 <b>My digital garden:</b> <a href="https://hrnns-ti.github.io/portofolio/">haerunnas/portfolio</a></p>
       <p>📫 <b>Let's connect:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
-      <p>    </p>
       &nbsp;
     </td>
-
   </tr>
-    <br>
 </table>
 
 <br>
