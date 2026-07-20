@@ -57,7 +57,7 @@
       <p>🔭 <b>Currently focused on:</b> Building modern web applications, exploring LLM integrations, and diving deep into Offensive Security.</p>
       <p>🌱 <b>Always learning:</b> Web2/Web3, Advanced CyberSec techniques, AI Automation, and elegant UI/UX design.</p>
       <p>🤝 <b>Community:</b> Actively sharing knowledge and organizing tech initiatives around Web Development and Cyber Security.</p>
-      <p>👨‍💻 <b>My digital garden:</b> <a href="https://hrnns-ti.github.io/portofolio/">haerunnas/portfolio</a></p>
+      <p>👨‍💻 <b>My digital garden:</b> <a href="https://haerunnas.pages.dev">haerunnas/portfolio</a></p>
       <p>📫 <b>Let's connect:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
       &nbsp;
     </td>
